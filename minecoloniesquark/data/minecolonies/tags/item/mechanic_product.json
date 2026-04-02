@@ -1,0 +1,11 @@
+{
+"replace": false,
+"values": [
+    "quark:obsidian_pressure_plate",
+	"#quark:revertable_trapped_chests",
+	"quark:trapped_prismarine_chest",
+	"quark:trapped_nether_brick_chest",
+	"quark:trapped_purpur_chest",
+	"quark:pickarang"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+"replace": false,
+"values": [
+    "quark:midori_block",
+	"quark:midori_pillar",
+	"quark:midori_block_stairs",
+	"quark:midori_block_slab",
+	"quark:midori_block_vertical_slab",
+	"quark:paper_wall_big",
+	"quark:paper_lantern_sakura",
+	"quark:paper_wall_sakura",
+	"quark:bamboo_mat_carpet"
+  ]
+}

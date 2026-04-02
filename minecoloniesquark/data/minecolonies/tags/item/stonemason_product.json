@@ -1,0 +1,29 @@
+{
+"replace": false,
+"values": [
+    "quark:limestone",
+	"quark:polished_limestone",
+	"quark:limestone_bricks",
+	"quark:jasper",
+	"quark:polished_jasper",
+	"quark:jasper_bricks",
+	"quark:shale",
+	"quark:polished_shale",
+	"quark:shale_bricks",
+	"quark:myalite",
+	"quark:polished_myalite",
+	"quark:myalite_bricks",
+	"quark:permafrost",
+	"quark:permafrost_bricks",
+	"quark:polished_calcite",
+	"quark:calcite_bricks",
+	"quark:polished_dripstone",
+	"quark:dripstone_bricks",
+	"quark:dirt_bricks",
+	"quark:mud_brick_lattice",
+	"quark:soul_sandstone_bricks",
+	"quark:soul_sandstone",
+	"quark:smooth_soul_sandstone",
+	"quark:prismarine_chest"
+  ]
+}

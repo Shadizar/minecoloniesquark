@@ -1,0 +1,12 @@
+{
+"replace": false,
+"values": [
+    "quark:limestone",
+	"quark:jasper",
+	"quark:shale",
+	"quark:myalite",
+	"quark:permafrost",
+	"quark:soul_sandstone",
+	"#quark:corundum"
+  ]
+}

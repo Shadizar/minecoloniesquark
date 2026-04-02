@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "id" : "quark:myalite",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "quark:myalite_pillar",
+      "count": 1},
+  "intermediate" : "minecraft:air"
+}
